@@ -55,13 +55,13 @@ export const SIZES = {
 export const FONTS = {
     largeTitle: { fontFamily: "Roboto", fontSize: SIZES.largeTitle, lineHeight: 55, fontWeight: "bold" },
     semiLargeTitle: { fontFamily: "Roboto", fontSize: SIZES.semiLargeTitle, lineHeight: 45, fontWeight: "bold" },
-    h1: { fontFamily: "Roboto-Black", fontSize: SIZES.h1, lineHeight: 36 },
+    h1: { fontFamily: "Roboto", fontSize: SIZES.h1, lineHeight: 36, fontWeight: "bold" },
     h2: { fontFamily: "Roboto", fontSize: SIZES.h2, lineHeight: 30, fontWeight: "bold" },
-    h3: { fontFamily: "Roboto", fontSize: SIZES.h3, lineHeight: 22, fontWeight: "bold" },
+    h3: { fontFamily: "Roboto", fontSize: SIZES.h3, lineHeight: 26, fontWeight: "bold" },
     h4: { fontFamily: "Roboto", fontSize: SIZES.h4, lineHeight: 22, fontWeight: "bold" },
     body1: { fontFamily: "Roboto", fontSize: SIZES.body1, lineHeight: 36 },
     body2: { fontFamily: "Roboto", fontSize: SIZES.body2, lineHeight: 30 },
-    body3: { fontFamily: "Roboto", fontSize: SIZES.body3, lineHeight: 22 },
+    body3: { fontFamily: "Roboto", fontSize: SIZES.body3, lineHeight: 26 },
     body4: { fontFamily: "Roboto", fontSize: SIZES.body4, lineHeight: 22 },
     body5: { fontFamily: "Roboto", fontSize: SIZES.body5, lineHeight: 32 },
 };
